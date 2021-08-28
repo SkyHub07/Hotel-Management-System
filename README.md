@@ -1,5 +1,5 @@
 # Hotel-Management-System
-This is a Java GUI project using Java Swing and backend MySQL for Hotel Management System.
+This is a DBMS project using Java Swing and backend MySQL for Hotel Management System.
 
 ## Steps to install and Run the project
 - Clone or Download the Repository locally
